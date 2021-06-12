@@ -1,6 +1,4 @@
 from flask import Flask, render_template, request, url_for
-from discord_webhook import DiscordWebhook
-from discord_webhook import DiscordEmbed
 from uuid import uuid4 as uid
 from time import sleep
 from flask.helpers import url_for
