@@ -21,9 +21,6 @@ head_log = {
     "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
     'Connection': 'keep-alive'
 }
-url_dis = DiscordWebhook(
-    url='https://discordapp.com/api/webhooks/848908981928984597/E8kY71LYkmwx4Lpl1tQgi4LPreEZouHRQUKz_CQoR7jFxOYU1RGoBjX14kOpNROB7KUs'
-)
 done_log = 0
 done_vote = 0
 error_log = 0
